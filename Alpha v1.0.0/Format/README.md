@@ -11,7 +11,7 @@
 ```
 ## Label yang digunakaan
 + Fungsi = `Series`
-+ Genre = `Action` `Adventure` `Post-Apocalyptic` `Ecchi` `Vampire` `Dementia`
-+ Tahun = `2024`
-+ Durasi = `24min`
-+ Musim = `Fall`
++ Genre = `Action` `Adventure` `Post-Apocalyptic` `Ecchi` `Vampire` `Dementia` `Other`
++ Tahun = `2024` `2025` `Other`
++ Durasi = `24min` `20min` `Other`
++ Musim = `Winter` `Spring` `Summer` `Fall` `Other`
